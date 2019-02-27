@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <role> -leonard mashimi- <twitter>
 
 # THANKS
 
-    <name>
+    <name> leonard
 
 # TECHNOLOGY COLOPHON
 
